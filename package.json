@@ -2,9 +2,15 @@
   "name": "@najmul-islam/fancy-button",
   "version": "1.0.0",
   "description": "This is my first package",
-  "main": "src/index.jsx",
+  "main": "dist/index.jsx",
+  "module": "dist/index.js",
+  "source": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Najmul-Islam/-fancy-button.git"
   },
   "keywords": [],
   "author": "Najmul Islam",
