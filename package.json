@@ -1,0 +1,22 @@
+{
+  "name": "@najmul-islam/fancy-button",
+  "version": "1.0.0",
+  "description": "This is my first package",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Najmul Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "styled-components": "^5.3.5"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
